@@ -139,7 +139,7 @@ no better than random guessing has an AUC-ROC of 0.5, which corresponds to a dia
 can be said that this classifier performs better than a random classifier and therefore has learned how to do some
 form of inference.
 
-<img width="366" alt="final-accs" src="https://github.com/CynicalDaud/CLAM-TP53/assets/10792026/45cd0c2f-f927-4e6c-ba61-0d822c933164">
+![final-accs](https://github.com/CynicalDaud/CLAM-TP53/assets/10792026/45cd0c2f-f927-4e6c-ba61-0d822c933164)
 Figure 3: The validation accuracy over time for the final model, trained on all training data. Two plots are provided
 here, one corresponding to the 0 class (WT) and the other to the 1 class (MUT).
 
