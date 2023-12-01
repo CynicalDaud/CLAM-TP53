@@ -140,10 +140,12 @@ can be said that this classifier performs better than a random classifier and th
 form of inference.
 
 ![final-accs](https://github.com/CynicalDaud/CLAM-TP53/assets/10792026/45cd0c2f-f927-4e6c-ba61-0d822c933164)
+
 Figure 3: The validation accuracy over time for the final model, trained on all training data. Two plots are provided
 here, one corresponding to the 0 class (WT) and the other to the 1 class (MUT).
 
-<img width="338" alt="final-loss" src="https://github.com/CynicalDaud/CLAM-TP53/assets/10792026/e8384e02-d3ba-468e-9f67-22896d507a94">
+![final-loss](https://github.com/CynicalDaud/CLAM-TP53/assets/10792026/e8384e02-d3ba-468e-9f67-22896d507a94)
+
 Figure 4: The total-loss for the model (both bag and instance level) plotted over the course of 10 epochs while
 being trained on the entirety of the training data.
 
